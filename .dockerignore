@@ -1,0 +1,9 @@
+# 排除 target 目录
+target/
+
+# 可选：排除其他不需要的文件
+.git/
+.idea/
+*.iml
+node_modules/
+*.log
